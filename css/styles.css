@@ -1,7 +1,24 @@
 body {
-  font-family: 'Goudy Old Style', Garamond, 'Big Caslon', 'Times New Roman', serif;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  background-color: lightyellow;
+  color: darkblue;
+  font-size: 102%;
+  width: 90%;
+  padding: 10px;
+  margin: 10px;
 }
 
 address {
   text-align: center;
+  font-weight: bold;
+}
+
+.emphasis {
+  font-weight: bolder;
+  color: firebrick;
+}
+
+.name {
+  font-style: italic;
+  font-weight: bold;
 }
